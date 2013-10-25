@@ -1,0 +1,50 @@
+.ui.state {
+  display: inline-block;
+  z-index: 10;
+  position: absolute;
+  background: red;
+  padding: 5px;
+  border-radius: 30px;
+  font-size: 12px;
+  font-weight: 900;
+  background: #444444;
+  border: 3px solid #eeeeee;
+  color: white;
+  margin: 10px 20px 0 0; }
+  .ui.state i {
+    margin: 0; }
+
+.ui.state.black {
+  background: #5c6166; }
+  .ui.state.black i {
+    color: white; }
+
+.ui.state.green {
+  background: #5bbd72; }
+  .ui.state.green i {
+    color: white; }
+
+.ui.state.red {
+  background: #d95c5c; }
+  .ui.state.red i {
+    color: white; }
+
+.ui.state.blue {
+  background: #6ecff5; }
+  .ui.state.blue i {
+    color: white; }
+
+.ui.state.purple {
+  background: #564f8a; }
+  .ui.state.purple i {
+    color: white; }
+
+.ui.state.teal {
+  background: #00b5ad; }
+  .ui.state.teal i {
+    color: white; }
+
+.ui.state.orange {
+  background: #e96633; }
+  .ui.state.orange i {
+    color: white; }
